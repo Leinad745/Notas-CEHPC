@@ -8,7 +8,8 @@ Este repositorio contiene notas y recursos de estudio para la certificación CEH
 
 ## Módulos
 
-- **[Módulo 1 - Fundamentos de Pentesting y Hacking Ético](Modulo-1_FundamentosDePentestingYHackingEtico.md)**
+- **[Módulo 1 - Fundamentos de Pentesting y Hacking Ética](Modulo-1_FundamentosDePentestingYHackingEtico.md)**
+- **[Módulo 2 - Ingeniería Social](Modulo-2_IngenieriaSocial.md)**
 - Mas por añadir...
 
 ## La Certificación CEHPC
