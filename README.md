@@ -11,9 +11,11 @@ Este repositorio contiene notas y recursos de estudio para la certificación CEH
 - **[Módulo 1 - Fundamentos de Pentesting y Hacking Ética](Modulo-1_FundamentosDePentestingYHackingEtico.md)**
 - **[Módulo 2 - Ingeniería Social](Modulo-2_IngenieriaSocial.md)**
 - **[Módulo 3 - Reconocimiento Pasivo y Activo](Modulo-3_ReconocimientoPasivoYActivo.md)**
-- **[Módulo 4 - Escaneo y Analisis de Red](Modulo-4_EscaneoYAnalisisDeRed.md)**
+- **[Módulo 4 - Escaneo y Análisis de Red](Modulo-4_EscaneoYAnalisisDeRed.md)**
 - **[Módulo 5 - Análisis de Vulnerabilidades](Modulo-5_AnálisisDeVulnerabilidades.md)**
-- Mas a futuro...
+- **[Módulo 6 - Explotación](Modulo-6_Explotacion.md)**
+- **[Módulo 7 - Técnicas de Ataque](Modulo-7_TecnicasDeAtaque.md)**
+- **[Módulo 8 - Informe de Resultados](Modulo-8_InformeDeResultados.md)**
 
 ## La Certificación CEHPC
 
