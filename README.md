@@ -12,6 +12,7 @@ Este repositorio contiene notas y recursos de estudio para la certificación CEH
 - **[Módulo 2 - Ingeniería Social](Modulo-2_IngenieriaSocial.md)**
 - **[Módulo 3 - Reconocimiento Pasivo y Activo](Modulo-3_ReconocimientoPasivoYActivo.md)**
 - **[Módulo 4 - Escaneo y Analisis de Red](Modulo-4_EscaneoYAnalisisDeRed.md)**
+- **[Módulo 5 - Análisis de Vulnerabilidades](Modulo-5_AnálisisDeVulnerabilidades.md)**
 - Mas a futuro...
 
 ## La Certificación CEHPC
